@@ -1,0 +1,10 @@
+.pic{
+    width: 50px;
+}
+.info{
+    width: 50px;
+    position: absolute; left: 420px;
+}
+.background{
+    background-color: red;
+}
